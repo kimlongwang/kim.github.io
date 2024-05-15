@@ -1,0 +1,195 @@
+{
+  "启动图": "https://api.kuhe.cc/lbt/start-up.png",
+  "启动图跳转": "/",
+  "启动页秒数": "3",
+  "启动页图标": "https://api.kuhe.cc/lbt/logo.png",
+  "启动页标题": "酷盒工具箱",
+  "启动页副标题": "一个年轻人都喜欢的软件",
+  "登录提示": "账号为QQ是方便获取头像，密码随意输入，不是输入QQ密码，不会盗取账号！\n如有登录失败，请将密码输入为12345678！",
+  "界面一标题": "首页",
+  "界面二标题": "软件",
+  "界面三标题": "公告",
+  "界面四标题": "工具",
+  "界面五标题": "我的",
+  "界面一副标题": "欢迎使用酷盒工具箱",
+  "界面二副标题": "综合类软件大合集",
+  "界面三副标题": "最新资讯、科普知识",
+  "界面四副标题": "众多工具，包罗万象",
+  "界面五副标题": "欢迎使用酷盒工具箱",
+  "首页滚动公告": "关注微信公众号：自学实用教程，获取更多实用工具！",
+  "更新日志": "V2.0.4\n\n一、新增：\n\n1、其他工具：\nWord格式转换、PDF转图片、PDF转Word、PDF转Excel、PPT格式转换、PDF转PPT、Word转PDF、PDF瘦身、Excel转PDF、PDF图片提取\n\n2、文本工具：\n文本转语音、今天吃什么、提取文字\n\n3、图片工具：\n王者一图识英雄、人脸性别转换、头像二次元、图片日漫滤镜、油画滤镜、国漫水彩风、证件照生成、图片像素化\n\n4、查询工具：\n高校查询\n\n5、提取工具：\n\n哔哩哔哩视频解析\n\n6、生活日常：\n随机美女视频\n\n7、搜索查询：\n王者最低战力查询\n\n8、新增音乐搜索热门音乐推荐\n\n二、修复：\n1、音乐大全音乐播放提示需要会员问题修复2、影视大全无法搜索问题修复\n\n三、界面修改\n1、将工具页面漫画小说模块上移至醒目位置\n\nV2.0.3\n\n1、新增步数修改、ai橡皮擦除、cyberpunk2077制作、随缘画\n\n2、修复随机一文不显示问题\n\n3、修改首页影视大全、修改全部工具页面配色装\n\nV2.0.2\n\n1  工具区新增影视搜索解析播放\n\n2  优化部分细节处理\n\n3  修复音乐解析失效\n\n4 用户直接更新覆盖安装",
+  "用户协议": "https://www.tdir.cn/yhxy.html",
+  "隐私政策": "https://www.tdir.cn/ysxy.html",
+  "最新版本": "2.0.4",
+  "更新标题": "发现新版本",
+  "更新内容": "一、新增：\n\n1、其他工具：\n\nWord格式转换、PDF转图片、PDF转Word、PDF转Excel、PPT格式转换、PDF转PPT、Word转PDF、PDF瘦身、Excel转PDF、PDF图片提取\n\n2、文本工具：\n\n文本转语音、今天吃什么、提取文字\n\n3、图片工具：\n\n王者一图识英雄、人脸性别转换、头像二次元、图片日漫滤镜、油画滤镜、国漫水彩风、证件照生成、图片像素化\n\n4、查询工具：\n\n高校查询\n\n5、提取工具：\n\n哔哩哔哩视频解析\n\n6、生活日常：\n\n随机美女视频\n\n7、搜索查询：\n\n王者最低战力查询\n\n8、新增音乐搜索热门音乐推荐\n\n二、修复：\n\n1、音乐大全音乐播放提示需要会员问题修复",
+  "更新地址": "https://ame.lanzoub.com/s/coolbox",
+  "强制更新": "开",
+  "群KEY": "Lp2XgJeqkU5B_1gdT41RbWZpRxK1pV4C",
+  "意见反馈": "https://support.qq.com/product/533413",
+  "登入弹窗": "",
+  "卡密购买地址": "https://ame.lanzoub.com/s/coolbox",
+  
+  "短视频解析接口": [
+    {
+      "名称": "接口①",
+      "网址": "https://api.linhun.vip/api/xbys?url=",
+      "请求方式": "GET",
+      "请求头": "{}",
+      "请求参数": "{}"
+    },
+    {
+      "名称": "接口②",
+      "网址": "https://apis.jxcxin.cn/api/video?url=",
+      "请求方式": "GET",
+      "请求头": "{}",
+      "请求参数": "{}"
+    }
+  ],
+  "哔哩哔哩解析接口": [
+    {
+      "名称": "接口①",
+      "网址": "https://api.pearktrue.cn/api/bilibili/parse.php?bvid=",
+      "请求方式": "GET",
+      "请求头": "{}",
+      "请求参数": "{}"
+    },
+    {
+      "名称": "接口②",
+      "网址": "https://api.pearktrue.cn/api/bilibili/parse.php?bvid=",
+      "请求方式": "GET",
+      "请求头": "{}",
+      "请求参数": "{}"
+    }
+  ],
+  "影视解析接口": [
+    {
+      "名称": "接口1（推荐）",
+      "网址": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "名称": "接口2",
+      "网址": "https://www.yemu.xyz/v/c.php?url="
+    },
+    {
+      "名称": "接口3",
+      "网址": "https://api.8l2.cn/api/?format=hz&key=f36eee8c3b104158073ba4251de1c651&url="
+    },
+    {
+      "名称": "接口4",
+      "网址": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "名称": "接口5",
+      "网址": "https://www.yemu.xyz/?url="
+    }
+  ],
+  "官方影视": [
+    {
+      "名称": "腾讯视频",
+      "图片": "http://static.yingyonghui.com/icon/128/6997013.png",
+      "网址": "https://v.qq.com/"
+    },
+    {
+      "名称": "爱奇艺",
+      "图片": "http://static.yingyonghui.com/icon/128/6996505.png",
+      "网址": "https://www.iqiyi.com/"
+    },
+    {
+      "名称": "优酷视频",
+      "图片": "http://static.yingyonghui.com/icon/128/6996589.png",
+      "网址": "https://www.youku.com/"
+    },
+    {
+      "名称": "芒果TV",
+      "图片": "http://static.yingyonghui.com/icon/128/6996374.png",
+      "网址": "https://www.mgtv.com/"
+    },
+    {
+      "名称": "搜狐视频",
+      "图片": "http://static.yingyonghui.com/icon/128/7039033.png",
+      "网址": "https://tv.sohu.com/"
+    },
+    {
+      "名称": "风行视频",
+      "图片": "http://static.yingyonghui.com/icon/128/1637504.png",
+      "网址": "http://www.fun.tv/"
+    }
+  ],
+  "网站合集": [
+    {
+      "名称": "纪妖(原名知妖)",
+      "链接": "https://www.cbaigui.com/"
+    },
+    {
+      "名称": "影视大全",
+      "链接": "https://www.freeok.pro/"
+    },
+    {
+      "名称": "早报网",
+      "链接": "https://www.qqorw.cn/"
+    },
+    {
+      "名称": "米读小说",
+      "链接": "https://www.nsdkh.com/"
+    },
+    {
+      "名称": "笔趣阁小说",
+      "链接": "http://biquge42.com/"
+    },
+    {
+      "名称": "漫画星球",
+      "链接": "http://www.mhxqiu4.com/"
+    },
+    {
+      "名称": "漫画屋",
+      "链接": "http://www.kumw7.com/"
+    },
+    {
+      "名称": "漫画大全",
+      "链接": "https://ruguotea.com/"
+    },
+    {
+      "名称": "漫香阁",
+      "链接": "https://www.copymanga.site/"
+    },
+    {
+      "名称": "漫香阁",
+      "链接": "https://www.copymanga.site/"
+    },
+    {
+      "名称": "新御宅阁",
+      "链接": "https://m.xyuzhaiwu7.com/"
+    },
+    {
+      "名称": "NP小说",
+      "链接": "https://m.np3p.com/"
+    },
+    {
+      "名称": "肉文阁",
+      "链接": "https://m.rouwenge.com/"
+    },
+    {
+      "名称": "肉书吧",
+      "链接": "https://m.484b.com/"
+    },
+    {
+      "名称": "海棠书屋",
+      "链接": "https://www.haitang123.cyou/rank/"
+    },
+    {
+      "名称": "PO18小说",
+      "链接": "https://www.po18r.com/"
+    },
+    {
+      "名称": "花雨言情小说",
+      "链接": "www.inbook.net"
+    }
+    ,
+    {
+      "名称": "书包小说",
+      "链接": "http://www.shubao520.com/"
+    }
+    ,
+    {
+      
